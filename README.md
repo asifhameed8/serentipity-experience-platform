@@ -40,7 +40,6 @@
 If you're a founder or startup team with a marketplace idea or experience-based SaaS — I can help you build it fast, using no-code (Bubble.io) or custom tech (.NET, React, Python).
 
 ✅ [Top Rated Plus on Upwork](https://www.upwork.com/freelancers/asifhameed)  
-📬 [Email Me](mailto:your@email.com)  
 🌐 [Visit My Portfolio (Coming Soon)](https://asifhameed.com)
 
 ---
